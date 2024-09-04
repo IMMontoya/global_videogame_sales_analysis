@@ -1,6 +1,9 @@
 # Hidden files
 ._*
 
+# The data file
+games.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

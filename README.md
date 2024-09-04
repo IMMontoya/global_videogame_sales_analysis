@@ -15,6 +15,13 @@ The following is an in-depth analysis of video game sales spanning from 1980 to 
 - Testing the hypothesis: “Average user ratings of the Xbox One and PC platforms are the same.”
 - Testing the hypothesis: “Average user ratings for the Action and Sports genres are different.”
 
+## Table of Contents
+
+[Notebook](/EDA.ipynb)  
+[Visualizations](images/)  
+[Conclusions](#conclusions)  
+[Libraries](#libraries)  
+
 ## Conclusions
 
 This notebook has explored and provided insights into various facets of video game sales and trends, notably focusing on:
@@ -33,10 +40,6 @@ This notebook has explored and provided insights into various facets of video ga
   - Hypothesis 2: Significant differences in user scores between Action and Sports genres.
 
 These insights provide a strategic guide for stakeholders in the video game industry for making informed decisions on future projects and marketing strategies.
-
-The full set of Visualizations can be accessed [here.](/images/)
-
-For more detailed insights and data visualizations, please refer to the full [Jupyter notebook.](/EDA.ipynb)
 
 ## Libraries
 
