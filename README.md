@@ -2,6 +2,8 @@
 
 ## Introduction
 
+An investor has been approached by a startup video game development company that is looking to break into the gaming industry. The investor is interested in understanding the current market trends and preferences to make an informed decision on whether to invest in the company. The investor has requested an analysis of global video game sales data to identify patterns and insights that can guide their decision-making process.
+
 The following is an in-depth analysis of video game sales spanning from 1980 to 2016. This analysis includes detailed explorations of:
 
 - Games released per year, charting the rise in popularity of the industry.
@@ -31,7 +33,7 @@ This notebook has explored and provided insights into various facets of video ga
 - **Leading Platform Analysis**: Identification of PlayStation 4 as the dominant platform in terms of global sales.
 ![Sales Per Platform](images/total_sales_per_platform_2012_2016.png)
 - **Market Dominance**: Sony and PlayStation 4's continued leadership in the gaming industry.
-![PS4 Game Sales Accross Platforms](images/total_sales_ps4_games_other_platforms.png)
+![PS4 Game Sales Across Platforms](images/total_sales_ps4_games_other_platforms.png)
 - **Genre Profitability**: The Action and Shooter genres emerged as the most profitable, reflecting strong consumer preferences.
 ![Total Sales Per Genre](images/total_sales_per_genre.png)
 - **Regional Differences**: Notable differences in platform popularity, genre preferences, and the impact of ESRB ratings across regions.
@@ -39,7 +41,13 @@ This notebook has explored and provided insights into various facets of video ga
   - Hypothesis 1: Little statistical significance in user rating differences between Xbox One and PC.
   - Hypothesis 2: Significant differences in user scores between Action and Sports genres.
 
-These insights provide a strategic guide for stakeholders in the video game industry for making informed decisions on future projects and marketing strategies.
+## Recommendations
+
+Based on the analysis, the following recommendations are made to the investor:
+
+- **Invest in PlayStation 4**: Given its market dominance and strong sales performance, investing in PlayStation 4 games is likely to yield high returns.
+- **Focus on Action and Shooter Genres**: These genres have consistently performed well and are likely to continue to do so.
+- **Consider Regional Preferences**: Tailoring game development and marketing strategies to regional preferences can help maximize sales.
 
 ## Libraries
 
