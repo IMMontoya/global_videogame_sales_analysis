@@ -1,5 +1,15 @@
 # Global Video Game Sales Analysis (1980 - 2016)
 
+## Table of Contents
+
+- [Notebook](/EDA.ipynb)
+- [Presentation](/presentation.pptx)
+- [Introduction](#introduction)
+- [Visualizations](images/)
+- [Conclusions](#conclusions)
+- [Recommendations](#recommendations)
+- [Libraries](#libraries)  
+
 ## Introduction
 
 An investor has been approached by a startup video game development company that is looking to break into the gaming industry. The investor is interested in understanding the current market trends and preferences to make an informed decision on whether to invest in the company. The investor has requested an analysis of global video game sales data to identify patterns and insights that can guide their decision-making process.
@@ -16,13 +26,6 @@ The following is an in-depth analysis of video game sales spanning from 1980 to 
 - Regional sales in the current period.
 - Testing the hypothesis: “Average user ratings of the Xbox One and PC platforms are the same.”
 - Testing the hypothesis: “Average user ratings for the Action and Sports genres are different.”
-
-## Table of Contents
-
-[Notebook](/EDA.ipynb)  
-[Visualizations](images/)  
-[Conclusions](#conclusions)  
-[Libraries](#libraries)  
 
 ## Conclusions
 
@@ -46,8 +49,10 @@ This notebook has explored and provided insights into various facets of video ga
 Based on the analysis, the following recommendations are made to the investor:
 
 - **Invest in PlayStation 4**: Given its market dominance and strong sales performance, investing in PlayStation 4 games is likely to yield high returns.
-- **Focus on Action and Shooter Genres**: These genres have consistently performed well and are likely to continue to do so.
-- **Consider Regional Preferences**: Tailoring game development and marketing strategies to regional preferences can help maximize sales.
+- **Invest in Console and PC Games**: Focusing on games for consoles and PCs is recommended, as these platform sales outperform handheld and mobile platforms.
+- **Prepare for a New Platform Release**: With the most recent platforms being released in 2012, a new platform is likely to be released soon. Preparing for this release can help the company stay ahead of the competition.
+- **Focus on Action and Shooter Genres**: These genres have consistently performed well and are likely to continue to do so. Action, in particular, has a broad appeal across global markets.
+- **Consider Regional Preferences**: The significant differences between Western and Japanese markets should be considered carefully when developing and marketing games.
 
 ## Libraries
 
