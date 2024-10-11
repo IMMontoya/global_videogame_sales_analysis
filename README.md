@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Notebook](/EDA.ipynb)
-- [Presentation](/presentation.pptx)
+- Presentation
+  - [PDF](/presentation_files/presentation.pdf) | [PPTX](/presentation_files/presentation.pptx)
 - [Introduction](#introduction)
 - [Visualizations](images/)
 - [Conclusions](#conclusions)
